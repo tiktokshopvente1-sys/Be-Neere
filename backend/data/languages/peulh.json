@@ -1,0 +1,45 @@
+{
+  "name": "Peulh (Fulfulde)",
+  "code": "peulh",
+  "region": "Burkina Faso / Guinée / Mali / Niger / Sénégal",
+  "greetings": [
+    {"peulh": "Jam waawi", "french": "Bonjour / Bonsoir", "english": "Good day"},
+    {"peulh": "A jaamii?", "french": "Comment allez-vous ?", "english": "How are you?"},
+    {"peulh": "Jaamiimi", "french": "Je vais bien", "english": "I am fine"},
+    {"peulh": "Hol tɔɗɗe maa?", "french": "Comment tu t'appelles ?", "english": "What is your name?"},
+    {"peulh": "Innde am ko...", "french": "Je m'appelle...", "english": "My name is..."},
+    {"peulh": "A jaraama", "french": "Merci", "english": "Thank you"},
+    {"peulh": "Jam", "french": "Paix / Salut", "english": "Peace"},
+    {"peulh": "Maa jam", "french": "Au revoir / Bonne santé", "english": "Goodbye"},
+    {"peulh": "Usii ko?", "french": "D'où viens-tu ?", "english": "Where are you from?"}
+  ],
+  "numbers": [
+    {"peulh": "Goo", "french": "Un", "english": "One", "digit": 1},
+    {"peulh": "Ɗiɗi", "french": "Deux", "english": "Two", "digit": 2},
+    {"peulh": "Tati", "french": "Trois", "english": "Three", "digit": 3},
+    {"peulh": "Nayi", "french": "Quatre", "english": "Four", "digit": 4},
+    {"peulh": "Jowi", "french": "Cinq", "english": "Five", "digit": 5},
+    {"peulh": "Jeegom", "french": "Six", "english": "Six", "digit": 6},
+    {"peulh": "Jeeɗiɗi", "french": "Sept", "english": "Seven", "digit": 7},
+    {"peulh": "Jeetati", "french": "Huit", "english": "Eight", "digit": 8},
+    {"peulh": "Jeenayi", "french": "Neuf", "english": "Nine", "digit": 9},
+    {"peulh": "Sappo", "french": "Dix", "english": "Ten", "digit": 10}
+  ],
+  "common_phrases": [
+    {"peulh": "Mi yiɗi maa", "french": "Je t'aime", "english": "I love you"},
+    {"peulh": "Mi anndaa", "french": "Je ne sais pas", "english": "I don't know"},
+    {"peulh": "Hol nde?", "french": "Quand ?", "english": "When?"},
+    {"peulh": "Hol to?", "french": "Où ?", "english": "Where?"},
+    {"peulh": "Mi laarii", "french": "J'ai faim", "english": "I am hungry"},
+    {"peulh": "Mi ñaamirii", "french": "J'ai soif", "english": "I am thirsty"},
+    {"peulh": "Hol caggal maa?", "french": "Qu'est-ce qui se passe ?", "english": "What is happening?"},
+    {"peulh": "Jam tan", "french": "Seulement la paix", "english": "Only peace"}
+  ],
+  "colors": [
+    {"peulh": "Woɗaandu", "french": "Rouge", "english": "Red"},
+    {"peulh": "Raneewo", "french": "Blanc", "english": "White"},
+    {"peulh": "Baleeri", "french": "Noir", "english": "Black"},
+    {"peulh": "Heewi", "french": "Vert", "english": "Green"},
+    {"peulh": "Buluwi", "french": "Bleu", "english": "Blue"}
+  ]
+}

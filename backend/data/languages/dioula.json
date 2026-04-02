@@ -1,0 +1,46 @@
+{
+  "name": "Dioula",
+  "code": "dioula",
+  "region": "Burkina Faso / Côte d'Ivoire / Mali",
+  "greetings": [
+    {"dioula": "I ni ce", "french": "Bonjour (matin)", "english": "Good morning"},
+    {"dioula": "I ni wula", "french": "Bonsoir", "english": "Good evening"},
+    {"dioula": "I ka kɛnɛ wa?", "french": "Comment allez-vous ?", "english": "How are you?"},
+    {"dioula": "N ka kɛnɛ", "french": "Je vais bien", "english": "I am fine"},
+    {"dioula": "Tɔgɔ di?", "french": "Comment tu t'appelles ?", "english": "What is your name?"},
+    {"dioula": "N tɔgɔ ye ... ye", "french": "Je m'appelle...", "english": "My name is..."},
+    {"dioula": "Aw ni ce", "french": "Merci (pluriel)", "english": "Thank you (plural)"},
+    {"dioula": "Kana fɛ", "french": "De rien", "english": "You're welcome"},
+    {"dioula": "Ka ta", "french": "Au revoir", "english": "Goodbye"},
+    {"dioula": "Hɛrɛ", "french": "Paix / Bonne santé", "english": "Peace"}
+  ],
+  "numbers": [
+    {"dioula": "Kelen", "french": "Un", "english": "One", "digit": 1},
+    {"dioula": "Fila", "french": "Deux", "english": "Two", "digit": 2},
+    {"dioula": "Saba", "french": "Trois", "english": "Three", "digit": 3},
+    {"dioula": "Naani", "french": "Quatre", "english": "Four", "digit": 4},
+    {"dioula": "Duuru", "french": "Cinq", "english": "Five", "digit": 5},
+    {"dioula": "Wɔɔrɔ", "french": "Six", "english": "Six", "digit": 6},
+    {"dioula": "Wolonwula", "french": "Sept", "english": "Seven", "digit": 7},
+    {"dioula": "Seegi", "french": "Huit", "english": "Eight", "digit": 8},
+    {"dioula": "Kɔnɔntɔn", "french": "Neuf", "english": "Nine", "digit": 9},
+    {"dioula": "Tan", "french": "Dix", "english": "Ten", "digit": 10}
+  ],
+  "common_phrases": [
+    {"dioula": "N b'i fɛ", "french": "Je t'aime", "english": "I love you"},
+    {"dioula": "N tɛ a lɔn", "french": "Je ne sais pas", "english": "I don't know"},
+    {"dioula": "Yɔrɔ min?", "french": "Où ?", "english": "Where?"},
+    {"dioula": "Cogodɔ?", "french": "Comment ?", "english": "How?"},
+    {"dioula": "N dakun", "french": "J'ai faim", "english": "I am hungry"},
+    {"dioula": "N jidimi", "french": "J'ai soif", "english": "I am thirsty"},
+    {"dioula": "Mɔgɔ bɛɛ ka kan", "french": "Tous les humains sont égaux", "english": "All humans are equal"},
+    {"dioula": "Yɔrɔ min?" , "french": "Où habites-tu ?", "english": "Where do you live?"}
+  ],
+  "colors": [
+    {"dioula": "Jɛkulu", "french": "Rouge", "english": "Red"},
+    {"dioula": "Jɛ", "french": "Blanc", "english": "White"},
+    {"dioula": "Fin", "french": "Noir", "english": "Black"},
+    {"dioula": "Gwɛ", "french": "Vert", "english": "Green"},
+    {"dioula": "Blu", "french": "Bleu", "english": "Blue"}
+  ]
+}

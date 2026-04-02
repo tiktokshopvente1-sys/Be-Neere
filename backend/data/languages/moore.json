@@ -1,0 +1,44 @@
+{
+  "name": "Mooré",
+  "code": "moore",
+  "region": "Burkina Faso",
+  "greetings": [
+    {"moore": "Laafi", "french": "Bonjour / Bonsoir", "english": "Good day"},
+    {"moore": "Laafi bala?", "french": "Comment allez-vous ?", "english": "How are you?"},
+    {"moore": "Laafi, bark' Allah", "french": "Bien, merci à Dieu", "english": "Fine, thank God"},
+    {"moore": "Ne y windame", "french": "Comment tu t'appelles ?", "english": "What is your name?"},
+    {"moore": "Mam yʋʋr yaa...", "french": "Je m'appelle...", "english": "My name is..."},
+    {"moore": "Bark' Allah", "french": "Merci", "english": "Thank you"},
+    {"moore": "Yaa soamba", "french": "De rien", "english": "You're welcome"},
+    {"moore": "N tõnd yaa", "french": "Au revoir", "english": "Goodbye"}
+  ],
+  "numbers": [
+    {"moore": "Yembre", "french": "Un", "english": "One", "digit": 1},
+    {"moore": "Ayyibo", "french": "Deux", "english": "Two", "digit": 2},
+    {"moore": "Atãabo", "french": "Trois", "english": "Three", "digit": 3},
+    {"moore": "Anaafo", "french": "Quatre", "english": "Four", "digit": 4},
+    {"moore": "Anũu", "french": "Cinq", "english": "Five", "digit": 5},
+    {"moore": "Ayyoobe", "french": "Six", "english": "Six", "digit": 6},
+    {"moore": "Ayoobga", "french": "Sept", "english": "Seven", "digit": 7},
+    {"moore": "Ayyɛɛte", "french": "Huit", "english": "Eight", "digit": 8},
+    {"moore": "Awayibo", "french": "Neuf", "english": "Nine", "digit": 9},
+    {"moore": "Pis-yembre", "french": "Dix", "english": "Ten", "digit": 10}
+  ],
+  "common_phrases": [
+    {"moore": "Mam sõng y", "french": "Je t'aime", "english": "I love you"},
+    {"moore": "M pa mi", "french": "Je ne sais pas", "english": "I don't know"},
+    {"moore": "Sɩdgi?", "french": "Vraiment ?", "english": "Really?"},
+    {"moore": "Yaa naan dẽ?", "french": "Où vas-tu ?", "english": "Where are you going?"},
+    {"moore": "M kõt rɩɩm", "french": "J'ai faim", "english": "I am hungry"},
+    {"moore": "M kõt kom", "french": "J'ai soif", "english": "I am thirsty"},
+    {"moore": "Tɩ maneg tɩ kõaaga", "french": "Travaillons ensemble", "english": "Let us work together"},
+    {"moore": "Yaa zĩnda naan?", "french": "Où habitez-vous ?", "english": "Where do you live?"}
+  ],
+  "colors": [
+    {"moore": "Miuugu", "french": "Rouge", "english": "Red"},
+    {"moore": "Rãmbu", "french": "Blanc", "english": "White"},
+    {"moore": "Sablegu", "french": "Noir", "english": "Black"},
+    {"moore": "Gãngu", "french": "Vert", "english": "Green"},
+    {"moore": "Rangsgu", "french": "Bleu", "english": "Blue"}
+  ]
+}
